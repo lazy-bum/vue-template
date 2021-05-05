@@ -1,11 +1,17 @@
 # vue3 + vite
 
-## 集成到项目
+## Project setup
 ```
-git remote add template git@github.com:lazy-bum/vue-template.git
+yarn install
 ```
 
-## 更新
+### Compiles and hot-reloads for development
 ```
-git pull template master:master
+yarn dev
+```
+
+### Compiles and minifies for production
+```
+yarn build
+yarn serve
 ```
