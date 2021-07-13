@@ -3,7 +3,7 @@
 </template>
 
 <script setup>
-import { onMounted, defineProps, ref } from 'vue'
+import { onMounted, ref } from 'vue'
 import NProgress from "nprogress";
 import "nprogress/nprogress.css";
 
